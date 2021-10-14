@@ -27,3 +27,6 @@ html {
   font-size: 10rem;
   flex-flow: column;
 }
+img {
+  @include frost(20px);
+}
